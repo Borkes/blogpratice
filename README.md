@@ -1,4 +1,4 @@
-# blogpratice
+# blogpractice
 - study node.js use express and mongo create a blog
 - next time, I want to use koa2 and mysql
 
